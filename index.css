@@ -1,0 +1,24 @@
+body{
+    background-color: #FAF5FA;
+}
+
+h1{
+    text-align: center;
+    color: #330433;
+    margin-top: 80px;
+    font-family: Tahoma;
+    font-size: 30px;
+}
+
+#desc {
+    text-align: center;
+    color: #660C66;
+    margin-top: 1px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Tahoma;
+}
+
+p {
+    text-align: center;
+}
